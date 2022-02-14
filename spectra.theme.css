@@ -4,13 +4,13 @@
  * @editor       TigerKX
  * @version      1.0
  * @website      http://pixelmelt.xyz
- * @source       https://github.com/PixelMelt/Spectra
+ * @source       https://github.com/TigerKX/Spectra
  */
 
 /* if you really need to change the colors try https://raw.githubusercontent.com/PixelMelt/Spectra/main/spectraV2.theme.css . Its not 100% finished */
 /* but you should be able to change the colors */
 
-@import url("https://pixelmelt.github.io/Spectra/spectrafull.css"); /* the theme */
+@import url("https://TigerKX.github.io/Spectra/spectrafull.css"); /* the theme */
 
 @import url('https://mr-miner1.github.io/Better-Badges/src/badges.css'); /* animated badges */
 @import url('https://TigerKX.github.io/Spectra/src/oldpop.css'); /* old user popouts */
